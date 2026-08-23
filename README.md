@@ -31,6 +31,10 @@ fields_of_interests:
     "Machine Learning",
     "Computer Vision",
   ]
+my_quote: It's never too late - never too late to start over, never too late to be happy
+challenge: "Reach immortal 100stars before season reset"
+2024 Goals: ["Build as many projects as possible and become a software engineer."]
+hobbies: ["Gaming", "Coding", "Running", "Watching film with someone"]
 ```
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30" /> Tech Stack
