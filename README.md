@@ -1,4 +1,4 @@
-<h2>Let's Connect and have a Chat! <img src="https://media.giphy.com/media/m476ZhHMTBcCk/giphy.gif" width="30" /></h2>
+<h2>Let's Connect and have a Chat! <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OWNycXQ4Y3FucHU4dDRjd3pkbmt4a3Zsd2ZpNnBjOTc1dnR5N250NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZLhEqWuMPche8/giphy.gif" width="30" /></h2>
 
 <p align="center">
   <a href="https://instagram.com/username-kamu" target="_blank">
