@@ -1,5 +1,20 @@
-# 👋 Hi, I'm Anita Silvi Ferdina!!
+<h2>Let's Connect and have a Chat! <img src="https://media.giphy.com/media/m476ZhHMTBcCk/giphy.gif" width="30" /></h2>
+
+<p align="center">
+  <a href="https://instagram.com/username-kamu" target="_blank">
+    <img src="https://img.icons8.com/doodle/48/instagram-new.png" width="45" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://threads.net/@username-kamu" target="_blank">
+    <img src="https://img.icons8.com/doodle/48/threads.png" width="45" alt="Threads" />
+  </a>
+</p>
+
 ---
+
+# 👋 Hi, I'm Anita Silvi Ferdina!! <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="35" /> 🌍
+
+*I am a 3-year diploma student at the State Polytechnic of Electronic Engineering Surabaya, focusing on web development. From very early on in my life, I started to fall in love with technology 🥰 This love has helped me develop a very good technological mindset 🖥️, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge** 🚀 **is enough knowledge** 🧠 and I strongly believe that there is always room for more knowledge, and the learning journey is never-ending. 💻*
 
 ```yaml
 located_in: Surabaya, Jawa Timur
@@ -18,7 +33,7 @@ fields_of_interests:
   ]
 ```
 
-### 💻 Tech Stack
+### <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30" /> Tech Stack
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -42,7 +57,7 @@ fields_of_interests:
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
-### 🛠️ Tools
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="30" /> Tools
 <p>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -52,7 +67,7 @@ fields_of_interests:
   <img src="https://img.shields.io/badge/Antigravity-1E1E1E?style=for-the-badge" />
 </p>
 
-### 🤖 AI Agents
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="30" /> AI Agents
 <p>
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
