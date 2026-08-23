@@ -53,7 +53,7 @@ hobbies: ["Gaming", "Coding", "Running", "Watching film with someone"]
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
-### 📚 Frameworks & Libraries
+### <img src="https://iconscout.com/lottie-animation/web-coding-animation_13564545" width="30" /> Frameworks & Libraries
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
