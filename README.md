@@ -67,7 +67,7 @@ fields_of_interests:
 
 <p align="center">
   <a href="https://instagram.com/ralzxz" target="_blank">
-    <img src="https://img.icons8.com/color/48/instagram-new.png" width="40" alt="Instagram" />
+    <img src="https://img.icons8.com/doodle/48/instagram-new.png" width="45" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
   <a href="https://threads.net/@ralzxz" target="_blank">
