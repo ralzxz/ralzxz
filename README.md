@@ -53,7 +53,7 @@ hobbies: ["Gaming", "Coding", "Running", "Watching film with someone"]
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmE4Nm5pNGh3eXhhdXBnb3FtdG1wMXlpOWttM2wxMXBrbXdnMXh0YSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/UwnsmrSvOp7MBZLVeL/giphy.gif" width="30" /> Frameworks & Libraries
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmE4Nm5pNGh3eXhhdXBnb3FtdG1wMXlpOWttM2wxMXBrbXdnMXh0YSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/lnb4A84fbmqhfYeYJu/giphy.gif" width="30" /> Frameworks & Libraries
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
