@@ -61,7 +61,7 @@ hobbies: ["Gaming", "Coding", "Running", "Watching film with someone"]
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="30" /> Tools
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemsyNWZuOGlieGN2ZnRsbWlsMmhzamVmbDcxMWJhNjRuem8xY2thcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LESpNIDaNBUcRIPzng/giphy.gif" width="30" /> Tools
 <p>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -71,7 +71,7 @@ hobbies: ["Gaming", "Coding", "Running", "Watching film with someone"]
   <img src="https://img.shields.io/badge/Antigravity-1E1E1E?style=for-the-badge" />
 </p>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="30" /> AI Agents
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5td2Fjd3hibG1qN3IxcXU3dXJra3pwNGlhM2JudW81cHdxNG04cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f1UH5LwVuWucM/giphy.gif" width="30" /> AI Agents
 <p>
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
