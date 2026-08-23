@@ -76,16 +76,3 @@ fields_of_interests:
   <img src="https://img.shields.io/badge/Kimi-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Z.AI-1E293B?style=for-the-badge" />
 </p>
-
-<h2>Let's Connect and have a Chat! 🦈</h2>
-<hr />
-
-<p align="center">
-  <a href="https://instagram.com/ralzxz" target="_blank">
-    <img src="https://img.icons8.com/doodle/48/instagram-new.png" width="45" alt="Instagram" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://threads.net/@ralzxz" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/48/ffffff/threads.png" width="40" alt="Threads" />
-  </a>
-</p>
