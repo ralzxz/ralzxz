@@ -32,7 +32,7 @@ fields_of_interests:
     "Computer Vision",
   ]
 my_quote: not yet - ["Just enjoying the life and keep studying"]
-challenge: "Reach Immortal 100 stars before the season resets"
+challenge: ["Reach Immortal 100 stars before the season resets"]
 2027 Goals: ["Build as many projects as possible and become a software engineer"]
 hobbies: ["Gaming", "Coding", "Running", "Watching film with someone"]
 ```
