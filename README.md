@@ -49,6 +49,8 @@ hobbies: ["Gaming", "Coding", "Running", "Watching film with someone"]
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ### 📚 Frameworks & Libraries
@@ -63,7 +65,6 @@ hobbies: ["Gaming", "Coding", "Running", "Watching film with someone"]
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemsyNWZuOGlieGN2ZnRsbWlsMmhzamVmbDcxMWJhNjRuem8xY2thcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LESpNIDaNBUcRIPzng/giphy.gif" width="30" /> IDE & Tools
@@ -76,7 +77,6 @@ hobbies: ["Gaming", "Coding", "Running", "Watching film with someone"]
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5td2Fjd3hibG1qN3IxcXU3dXJra3pwNGlhM2JudW81cHdxNG04cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f1UH5LwVuWucM/giphy.gif" width="30" /> AI Agents
