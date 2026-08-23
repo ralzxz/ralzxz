@@ -14,7 +14,7 @@
 
 # 👋 Hi, I'm Amiral Fuad Aziz!! <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="35" />
 
-*I am an Informatics Engineering student at Muhammadiyah University of Surabaya, focusing on Software Engineering, Machine Learning, and Computer Vision. I am passionate about building robust software applications and training intelligent vision models. I thrive on staying highly productive by leveraging AI agents as my collaborative coding assistants, turning complex ideas into efficient, real-world solutions! 🚀🤖✨*
+*I am an Informatics Engineering student at Muhammadiyah University of Surabaya, focusing on Software Engineering, Machine Learning, and Computer Vision. I am passionate about building a software applications and training intelligent vision models. I thrive on staying highly productive by leveraging AI agents as my collaborative coding assistants, turning complex ideas into efficient, real-world solutions! 🚀🤖✨*
 
 ```yaml
 located_in: Surabaya, Jawa Timur
