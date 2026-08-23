@@ -12,7 +12,7 @@
 
 ---
 
-# 👋 Hi, I'm Anita Silvi Ferdina!! <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="35" /> 🌍
+# 👋 Hi, I'm Amiral Fuad Aziz!! <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="35" /> 🌍
 
 *I am a 3-year diploma student at the State Polytechnic of Electronic Engineering Surabaya, focusing on web development. From very early on in my life, I started to fall in love with technology 🥰 This love has helped me develop a very good technological mindset 🖥️, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge** 🚀 **is enough knowledge** 🧠 and I strongly believe that there is always room for more knowledge, and the learning journey is never-ending. 💻*
 
