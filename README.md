@@ -1,7 +1,7 @@
 <h2>Let's Connect and have a Chat! <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OWNycXQ4Y3FucHU4dDRjd3pkbmt4a3Zsd2ZpNnBjOTc1dnR5N250NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZLhEqWuMPche8/giphy.gif" width="30" /></h2>
 
 <p align="center">
-  <a href="https://instagram.com/username-kamu" target="_blank">
+  <a href="https://instagram.com/ralzxz" target="_blank">
     <img src="https://img.icons8.com/doodle/48/instagram-new.png" width="45" alt="Instagram" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -12,24 +12,24 @@
 
 ---
 
-# 👋 Hi, I'm Amiral Fuad Aziz!! <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="35" /> 🌍
+# 👋 Hi, I'm Amiral Fuad Aziz!! <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="35" />
 
-*I am a 3-year diploma student at the State Polytechnic of Electronic Engineering Surabaya, focusing on web development. From very early on in my life, I started to fall in love with technology 🥰 This love has helped me develop a very good technological mindset 🖥️, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge** 🚀 **is enough knowledge** 🧠 and I strongly believe that there is always room for more knowledge, and the learning journey is never-ending. 💻*
+*I am an Informatics Engineering student at Muhammadiyah University of Surabaya, focusing on Software Engineering, Machine Learning, and Computer Vision. I am passionate about building robust software applications and training intelligent vision models. I thrive on staying highly productive by leveraging AI agents as my collaborative coding assistants, turning complex ideas into efficient, real-world solutions! 🚀🤖✨*
 
 ```yaml
 located_in: Surabaya, Jawa Timur
 education:
   [
-    "D3 Politeknik Elektronika Negeri Surabaya - Teknik Informatika",
-    "SMK Negeri 1 Surabaya - Rekayasa Perangkat Lunak",
+    "S1 Universitas Muhammadiyah Surabaya - Teknik Informatika",
+    "SMK Muhammadiyah 3 Mojokerto - Teknik Elektronika",
   ]
 fields_of_interests:
   [
     "Web Development",
-    "Data Science",
+    "Mobile Development",
+    "Game Development",
     "Machine Learning",
-    "UI/UX",
-    "DevOps",
+    "Computer Vision",
   ]
 ```
 
