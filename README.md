@@ -1,19 +1,20 @@
-# 👋 Hi, I'm Amiral Fuad Aziz!!
+# 👋 Hi, I'm Anita Silvi Ferdina!!
 ---
 
 ```yaml
 located_in: Surabaya, Jawa Timur
 education:
   [
-    "Universitas Muhammadiyah Surabaya - Teknik Informatika",
-    "SMK Muhammadiyah 3 Mojokerto - Teknik Elektronika",
+    "D3 Politeknik Elektronika Negeri Surabaya - Teknik Informatika",
+    "SMK Negeri 1 Surabaya - Rekayasa Perangkat Lunak",
   ]
 fields_of_interests:
   [
     "Web Development",
-    "Mobile App",
-    "Machine Learning"
-    "Computer Vision",
+    "Data Science",
+    "Machine Learning",
+    "UI/UX",
+    "DevOps",
   ]
 ```
 
@@ -28,6 +29,8 @@ fields_of_interests:
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -62,11 +65,12 @@ fields_of_interests:
 <h2>Let's Connect and have a Chat! 🦈</h2>
 <hr />
 
-<p align="right">
-  <a href="https://instagram.com/username-kamu" target="_blank">
+<p align="center">
+  <a href="https://instagram.com/ralzxz" target="_blank">
     <img src="https://img.icons8.com/color/48/instagram-new.png" width="40" alt="Instagram" />
   </a>
-  <a href="https://threads.net/@username-kamu" target="_blank">
-    <img src="https://img.icons8.com/color/48/threads.png" width="40" alt="Threads" />
+  &nbsp;&nbsp;
+  <a href="https://threads.net/@ralzxz" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/48/ffffff/threads.png" width="40" alt="Threads" />
   </a>
 </p>
