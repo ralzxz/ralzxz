@@ -4,10 +4,6 @@
   <a href="https://instagram.com/ralzxz" target="_blank">
     <img src="https://img.icons8.com/doodle/48/instagram-new.png" width="45" alt="Instagram" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://threads.net/@ralzxz" target="_blank">
-    <img src="https://img.icons8.com/doodle/48/threads.png" width="45" alt="Threads" />
-  </a>
 </p>
 
 ---
