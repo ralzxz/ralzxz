@@ -29,5 +29,5 @@ fields_of_interests:
   ]
 my_quote: ["Just enjoying life and keep on studying"]
 2027 Goals: ["Build as many projects as possible and become a software engineer"]
-hobbies: ["Gaming", "Coding", "Running"]
+hobbies: ["Gaming", "Coding", "Prompting"]
 ```
